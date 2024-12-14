@@ -60,7 +60,7 @@ const page = () => {
         <div className="text-center">
           <h2 className="text-3xl font-bold">Join Our Team</h2>
           <p className="mt-4 text-lg text-gray-600">
-            We're always looking for talented and passionate people to join our team. If you're ready to make an impact, we want to hear from you!
+            We re always looking for talented and passionate people to join our team. If you re ready to make an impact we want to hear from you
           </p>
         </div>
 
@@ -116,7 +116,7 @@ const page = () => {
         <div className="mt-16 text-center">
           <h3 className="text-2xl font-semibold">Our Culture</h3>
           <p className="mt-4 text-lg text-gray-600">
-            At [Your Company], we believe in creating an inclusive, supportive, and innovative work environment. We value collaboration, creativity, and a growth mindset. Our team is passionate about making a difference and we encourage continuous learning and personal development.
+            At Afreen C M, we believe in creating an inclusive supportive and innovative work environment. We value collaboration, creativity, and a growth mindset. Our team is passionate about making a difference and we encourage continuous learning and personal development.
           </p>
         </div>
 
@@ -124,7 +124,7 @@ const page = () => {
         <div className="mt-16 text-center">
           <h3 className="text-2xl font-semibold">How to Apply</h3>
           <p className="mt-4 text-lg text-gray-600">
-            Interested in one of our open positions? Click "Apply Now" on any of the listings above and submit your resume and portfolio. We look forward to reviewing your application!
+            Interested in one of our open positions Click Apply Now on any of the listings above and submit your resume and portfolio. We look forward to reviewing your application
           </p>
         </div>
       </section>
@@ -132,7 +132,7 @@ const page = () => {
       {/* Footer */}
       <footer className="footer footer-center bg-base-300 text-base-content p-4">
         <aside>
-          <p>Copyright © {new Date().getFullYear()} - All rights reserved by AFreen C M Ltd</p>
+          <p>Copyright © {new Date().getFullYear()}All rights reserved by AFreen C M Ltd</p>
         </aside>
       </footer>
     </main>

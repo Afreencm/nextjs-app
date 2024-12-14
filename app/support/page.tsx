@@ -94,7 +94,7 @@ const page = () => {
           </ul>
 
           <h3 className="text-2xl font-semibold">Contact Us</h3>
-          <p>If you can't find an answer to your question, feel free to reach out to us through the contact form below.</p>
+          <p>If you cant find an answer to your question, feel free to reach out to us through the contact form below.</p>
           <form className="space-y-4">
             <div>
               <label htmlFor="name" className="block text-lg">Name</label>
